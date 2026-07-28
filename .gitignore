@@ -1,0 +1,9 @@
+# Arquivos temporários
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Dados sensíveis ou bases reais
+data/dados_reais.csv
+data/*.xlsx
