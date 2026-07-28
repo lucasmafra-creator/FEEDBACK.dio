@@ -10,7 +10,7 @@ Apresente em até cinco linhas os principais padrões encontrados, os problemas 
 
 | Tema | Serviço | Tipo | Frequência observada | Urgência | Impacto | Exemplo de comentário | Melhoria sugerida |
 |---|---|---|---|---|---|---|---|
-| Preencher | Preencher | Preencher | Preencher | Preencher | Preencher | Preencher | Preencher |
+| Insira | Insira | Insira | Insira | Insira | Insira | Insira | Insira |
 
 ## 3. Prioridades
 
